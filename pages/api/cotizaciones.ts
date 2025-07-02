@@ -1,0 +1,1 @@
+// Simulación del archivo pages/api/cotizaciones.ts

@@ -1,0 +1,1 @@
+// Simulación del archivo pages/inventario/index.tsx

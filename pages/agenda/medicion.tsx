@@ -1,0 +1,1 @@
+// Simulación del archivo pages/agenda/medicion.tsx

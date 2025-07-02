@@ -1,0 +1,1 @@
+// Simulación del archivo README.md

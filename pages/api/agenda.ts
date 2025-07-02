@@ -1,0 +1,1 @@
+// Simulación del archivo pages/api/agenda.ts
